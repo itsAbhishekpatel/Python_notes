@@ -1,0 +1,11 @@
+1. Select Keyboard Shortcuts = (Ctrl + K + S)
+2. Go full screen with your apps/Full Screen = fun+F11
+3. Minimise half windwo = Windows logo key  + Up arrow 
+4. Display and hide the desktop: Windows logo key  + D
+5. Switch between open apps: Alt + Tab
+6. Lock your PC: Windows logo key  + L
+7. Open the Quick Link menu: Windows logo key  + X
+8. Run code line by line = Shift + Enter
+
+
+
