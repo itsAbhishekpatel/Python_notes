@@ -32,3 +32,20 @@ print(mylist)
 myname.insert(1,"Kallu") # adding a new value at index 1 and new values are shifted
 print(myname)
 
+myname.append("add new value") # append function
+
+print("Count of name Rohan: ",myname.count("Rohan")) # count function  
+
+mylist.extend(myname) # extend function 
+
+print("Index : ", mylist.index("Kallu")) # return lowest index value
+
+print("Pop value ",mylist.pop(3)) # by default pop the last value 
+
+mylist.reverse() # reverse the original list 
+myname.sort() # sort the original list 
+number = [ 10,20,30,40]
+# print(number.min(20))
+number.remove(10)
+print(myname)
+print(mylist)

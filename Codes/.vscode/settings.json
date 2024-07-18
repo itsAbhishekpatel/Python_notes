@@ -1,0 +1,40 @@
+{
+    "folder-color.pathColors": [
+        {
+            "folderPath": "Codes\\1_Introduction\\",
+            "color": "foldercolorizer.Gold"
+        },
+        {
+            "folderPath": "Codes\\2_Data_Structure\\",
+            "color": "foldercolorizer.Copper"
+        },
+        {
+            "folderPath": "Codes\\2_Data_Structure\\1.1.List.py\\",
+            "color": "foldercolorizer.LightRed"
+        },
+        {
+            "folderPath": "Codes\\3_Conditinal_statements\\",
+            "color": "foldercolorizer.LightPink"
+        },
+        {
+            "folderPath": "Codes\\4_Loops\\",
+            "color": "foldercolorizer.GrayishSilver"
+        },
+        {
+            "folderPath": "Codes\\5_Functions\\",
+            "color": "foldercolorizer.LightSalmon2"
+        },
+        {
+            "folderPath": "Codes\\6_File_Handling\\",
+            "color": "foldercolorizer.SandyTan"
+        },
+        {
+            "folderPath": "Codes\\7_Exceptional_Handling\\",
+            "color": "foldercolorizer.Bronze"
+        },
+        {
+            "folderPath": "Codes\\8_Oops\\",
+            "color": "foldercolorizer.PaleTaupe"
+        }
+    ]
+}
